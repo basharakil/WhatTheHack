@@ -19,4 +19,4 @@ In this challenge we'll be installing MongoDB into our cluster.
 ## Success Criteria
 
 1. Verify MongoDB is installed and run in our cluster
-1. Verify the `mongo --version` command can be run in a pod and shown to work.
+1. Verify the `mongosh --version` command can be run in a pod and shown to work.
